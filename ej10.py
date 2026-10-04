@@ -1,0 +1,6 @@
+torre_negra: tuple = (1, 1)
+torre_blanca: tuple = (8, 1)
+alfil_negro: tuple = (1, 3)
+print("torre_negra", torre_negra)
+print("torre_blanca", torre_blanca)
+print("alfil_negro", alfil_negro)
